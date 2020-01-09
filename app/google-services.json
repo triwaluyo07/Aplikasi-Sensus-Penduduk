@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1052064709237",
+    "firebase_url": "https://appsensuspenduduk.firebaseio.com",
+    "project_id": "appsensuspenduduk",
+    "storage_bucket": "appsensuspenduduk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052064709237:android:20346b3085c6cbbe89963c",
+        "android_client_info": {
+          "package_name": "com.triwaluyo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052064709237-1ch1di6pcka89e7muo0q62ona7e1rqv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triwaluyo.myapplication",
+            "certificate_hash": "ead6060393815d35c340ee44923fdc694050eb4d"
+          }
+        },
+        {
+          "client_id": "1052064709237-agh3mlhsj6jf8760hjr3ilvmfcv65ov2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triwaluyo.myapplication",
+            "certificate_hash": "80cb8a0f52d8492a9135d8abb9455d35402b78b8"
+          }
+        },
+        {
+          "client_id": "1052064709237-jcsdcilklghapbiaktmigs22v5njrt60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_I_5FNCZk6TLXs5sAx75FyvsZ0UdeDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052064709237-jcsdcilklghapbiaktmigs22v5njrt60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052064709237:android:9e959bfc314620e889963c",
+        "android_client_info": {
+          "package_name": "triwaluyo.aplikasisensuspenduduk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052064709237-jsjdpocj4ueoc1obugvktn614kd7a3m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "triwaluyo.aplikasisensuspenduduk",
+            "certificate_hash": "ead6060393815d35c340ee44923fdc694050eb4d"
+          }
+        },
+        {
+          "client_id": "1052064709237-jcsdcilklghapbiaktmigs22v5njrt60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_I_5FNCZk6TLXs5sAx75FyvsZ0UdeDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052064709237-jcsdcilklghapbiaktmigs22v5njrt60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
